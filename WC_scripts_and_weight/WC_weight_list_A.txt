@@ -56,6 +56,3 @@
 /data/home/Corbittp/Desktop/revised_subject_WC_and_WK/WC/weights/iv4vev4v.w
 /data/home/Corbittp/Desktop/revised_subject_WC_and_WK/WC/weights/lgnsev1h.w
 /data/home/Corbittp/Desktop/revised_subject_WC_and_WK/WC/weights/lgnsev1v.w
-/data/home/Corbittp/Desktop/revised_subject_WC_and_WK/WC/weights/spv4cexss.w
-/data/home/Corbittp/Desktop/revised_subject_WC_and_WK/WC/weights/spv4hexss.w
-/data/home/Corbittp/Desktop/revised_subject_WC_and_WK/WC/weights/spv4vexss.w
